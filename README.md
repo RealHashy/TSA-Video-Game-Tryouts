@@ -9,5 +9,6 @@ We chose a classic that ties back to Asteroids which came out in 1979, Space Inv
 Refrences (MLA):
 Museum of Play. “Asteroids.” Strong National Museum of Play, 13 Mar. 2024, www.museumofplay.org/games/asteroids/
 .Accessed 14 Nov. 2025.
+“Make an Arcade Space Shooter with GameMaker.” GameMaker, gamemaker.io/en/tutorials/make-arcade-space-shooter.
 
-All images and icons in the making of this video game were designed by me.
+All images and icons in the making of this video game were designed by us, other than the asteroids, which was provided through the studio.
